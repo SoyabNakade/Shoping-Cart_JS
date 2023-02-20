@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: crimson;
+    font-family: 'Holtwood One SC', serif;
+    font-size: xx-large;
+}
+table{
+    width: 100%;
+   
+}
+table{
+    border-collapse: collapse;
+    border: solid 1px black;
+}
+td{
+    height: 40px;
+    padding: 5px;
+    font-family: 'Bree Serif', serif;
+    font-size: large;
+    text-align: center;
+
+     
+}
+input{
+    height: 30px;
+    width: 90%;
+    margin-left: 10px;
+    font-family: 'Bree Serif', serif;
+    font-size: large;
+
+}
+tr{
+    font-family: 'Bree Serif', serif;
+    font-size: large;
+}
